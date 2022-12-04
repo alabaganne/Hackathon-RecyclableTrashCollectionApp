@@ -12,3 +12,6 @@ Next, run the following commands in order:
 npm install
 npm run start
 ```
+The website will be accessible at http://localhost:3030/
+
+If you have any question, you can reach me at: alabaganne9@gmail.com
