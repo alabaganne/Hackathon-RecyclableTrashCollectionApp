@@ -7,7 +7,7 @@ The purpose of this app is to make it easier for the government to find recyclab
 
 First, you need to make sure that the following programs are installed: MongoDB, NodeJS
 
-Next, run the following commands in order:
+Next, go to the **server** folder, and using your terminal (or command prompt (cmd)), run the following commands in order:
 ```
 npm install
 npm run start
